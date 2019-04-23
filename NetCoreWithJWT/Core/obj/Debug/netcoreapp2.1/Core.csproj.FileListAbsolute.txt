@@ -1,0 +1,16 @@
+D:\Projects\NetCoreWithJWT\Core\bin\Debug\netcoreapp2.1\Core.deps.json
+D:\Projects\NetCoreWithJWT\Core\bin\Debug\netcoreapp2.1\Core.dll
+D:\Projects\NetCoreWithJWT\Core\bin\Debug\netcoreapp2.1\Core.pdb
+D:\Projects\NetCoreWithJWT\Core\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\NetCoreWithJWT\Core\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\NetCoreWithJWT\Core\bin\Debug\netcoreapp2.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\NetCoreWithJWT\Core\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Projects\NetCoreWithJWT\Core\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Tokens.xml
+D:\Projects\NetCoreWithJWT\Core\bin\Debug\netcoreapp2.1\System.IdentityModel.Tokens.Jwt.xml
+D:\Projects\NetCoreWithJWT\Core\obj\Debug\netcoreapp2.1\Core.csprojAssemblyReference.cache
+D:\Projects\NetCoreWithJWT\Core\obj\Debug\netcoreapp2.1\Core.csproj.CoreCompileInputs.cache
+D:\Projects\NetCoreWithJWT\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfoInputs.cache
+D:\Projects\NetCoreWithJWT\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfo.cs
+D:\Projects\NetCoreWithJWT\Core\obj\Debug\netcoreapp2.1\Core.csproj.CopyComplete
+D:\Projects\NetCoreWithJWT\Core\obj\Debug\netcoreapp2.1\Core.dll
+D:\Projects\NetCoreWithJWT\Core\obj\Debug\netcoreapp2.1\Core.pdb

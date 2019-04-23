@@ -1,0 +1,17 @@
+D:\Projects\NetCoreWithJWT\NetCoreWithJWT\bin\Debug\netcoreapp2.1\NetCoreWithJWT.deps.json
+D:\Projects\NetCoreWithJWT\NetCoreWithJWT\bin\Debug\netcoreapp2.1\NetCoreWithJWT.runtimeconfig.json
+D:\Projects\NetCoreWithJWT\NetCoreWithJWT\bin\Debug\netcoreapp2.1\NetCoreWithJWT.runtimeconfig.dev.json
+D:\Projects\NetCoreWithJWT\NetCoreWithJWT\bin\Debug\netcoreapp2.1\NetCoreWithJWT.dll
+D:\Projects\NetCoreWithJWT\NetCoreWithJWT\bin\Debug\netcoreapp2.1\NetCoreWithJWT.pdb
+D:\Projects\NetCoreWithJWT\NetCoreWithJWT\bin\Debug\netcoreapp2.1\Core.dll
+D:\Projects\NetCoreWithJWT\NetCoreWithJWT\bin\Debug\netcoreapp2.1\Core.pdb
+D:\Projects\NetCoreWithJWT\NetCoreWithJWT\obj\Debug\netcoreapp2.1\NetCoreWithJWT.csprojAssemblyReference.cache
+D:\Projects\NetCoreWithJWT\NetCoreWithJWT\obj\Debug\netcoreapp2.1\NetCoreWithJWT.csproj.CoreCompileInputs.cache
+D:\Projects\NetCoreWithJWT\NetCoreWithJWT\obj\Debug\netcoreapp2.1\NetCoreWithJWT.RazorAssemblyInfo.cache
+D:\Projects\NetCoreWithJWT\NetCoreWithJWT\obj\Debug\netcoreapp2.1\NetCoreWithJWT.RazorAssemblyInfo.cs
+D:\Projects\NetCoreWithJWT\NetCoreWithJWT\obj\Debug\netcoreapp2.1\NetCoreWithJWT.AssemblyInfoInputs.cache
+D:\Projects\NetCoreWithJWT\NetCoreWithJWT\obj\Debug\netcoreapp2.1\NetCoreWithJWT.AssemblyInfo.cs
+D:\Projects\NetCoreWithJWT\NetCoreWithJWT\obj\Debug\netcoreapp2.1\NetCoreWithJWT.RazorTargetAssemblyInfo.cache
+D:\Projects\NetCoreWithJWT\NetCoreWithJWT\obj\Debug\netcoreapp2.1\NetCoreWithJWT.csproj.CopyComplete
+D:\Projects\NetCoreWithJWT\NetCoreWithJWT\obj\Debug\netcoreapp2.1\NetCoreWithJWT.dll
+D:\Projects\NetCoreWithJWT\NetCoreWithJWT\obj\Debug\netcoreapp2.1\NetCoreWithJWT.pdb
